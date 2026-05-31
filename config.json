@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorfender",
+        "uuid": 20831922,
+        "checksum": "t7dmyq"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
